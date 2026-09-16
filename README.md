@@ -7,14 +7,7 @@ Aplicație full-stack de agendă telefonică (CRUD) construită cu **React**, **
 ![FastAPI](https://img.shields.io/badge/backend-FastAPI-009688?logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/database-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-## Demo
-
-<!-- Adauga aici un link live si/sau un screenshot/GIF cu aplicatia in functiune -->
-🔗 **Live demo:** _(adaugă link după deploy)_
-
-![Screenshot placeholder](https://via.placeholder.com/800x450?text=Screenshot+aplicatie)
-
-## Funcționalități
+## Features
 
 - ➕ Adăugare contact (nume, telefon, email, adresă)
 - 📋 Listare contacte, sortate alfabetic
